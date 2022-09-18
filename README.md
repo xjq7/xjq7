@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xjq7
-- 👀 I’m interested in js
+- 👀 I’m interested in typescript
 - 🌱 I’m currently learning mysql、Go
 
 <!---
