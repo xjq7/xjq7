@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xjq7
 - 👀 I’m interested in typescript
-- 🌱 I’m currently learning typescript、algorithm
+- 🌱 I’m currently learning typescript, algorithm, mysql, nodejs
 
 <!---
 xjq7/xjq7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
