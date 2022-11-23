@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @xjq7
 - 👀 I’m interested in typescript
 - 🌱 I’m currently learning typescript, algorithm, mysql, nodejs
+- 动态规划 | 回溯 | 二分查找 | 单调栈 | 深搜广搜 | 贪心 | 分治 | 双指针
 
 <!---
 xjq7/xjq7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
