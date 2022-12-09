@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![overview](https://raw.githubusercontent.com/xjq7/github-stats-transparent/cc22240167b9d40849298fc07f843c69d05389c1/generated/overview.svg)
-![languages](https://raw.githubusercontent.com/xjq7/github-stats-transparent/cc22240167b9d40849298fc07f843c69d05389c1/generated/languages.svg)
+![overview](https://raw.githubusercontent.com/xjq7/github-stats-transparent/output/generated/overview.svg)
+![languages](https://raw.githubusercontent.com/xjq7/github-stats-transparent/output/generated/languages.svg)
